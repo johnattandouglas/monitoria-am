@@ -4,4 +4,5 @@ matplotlib
 seaborn
 mlxtend
 scikit-learn
+imbalanced-learn
 jupyter
