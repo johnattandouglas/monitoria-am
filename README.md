@@ -1,9 +1,6 @@
-# Monitoria Aprendizagem de Máquina II (Embraer)
+# Monitoria de Aprendizagem de Máquina
 
-Oi! Seja bem-vind@ ao nosso repositório da disciplina "Aprendizagem de Máquina II".
-(O material de "AM I" continua aqui também!)
-
-Aqui, você encontrará todo o material das atividades práticas.
+Olá! Seja bem-vind@ ao nosso repositório da disciplina de Aprendizagem de Máquina. Aqui, você encontrará todo o material das atividades práticas.
 
 Para essas atividades, vamos usar o Google Colab, uma plataforma simples de executar códigos em Python.
 O Colab vem com bibliotecas pré-instaladas e permite que a gente utilize GPUs do Google!
