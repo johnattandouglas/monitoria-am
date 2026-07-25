@@ -6,3 +6,4 @@ mlxtend
 scikit-learn
 imbalanced-learn
 jupyter
+ipywidgets
