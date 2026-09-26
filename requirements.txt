@@ -4,6 +4,7 @@ matplotlib
 seaborn
 mlxtend
 scikit-learn
+optuna
 imbalanced-learn
 jupyter
 ipywidgets
